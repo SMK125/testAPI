@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Test_Best_Buy_API">
+  <test name="Test_APIEndpoints ">
+    <classes>
+      <class name="com.test.api.TestProducts"/>
+      <class name="com.test.api.TestCategories"/>
+      <class name="com.test.api.TestStores"/>
+      <class name="com.test.api.TestServices"/>
+      <class name="com.test.api.TestUtilities"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

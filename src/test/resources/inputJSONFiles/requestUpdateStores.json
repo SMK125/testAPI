@@ -1,0 +1,13 @@
+{
+  "name": "Roseville",
+  "type": "BigBox1",
+  "address": "14141 Aldrich Ave S",
+  "address2": "",
+  "city": "Maplewood",
+  "state": "MN3",
+  "zip": "55109",
+  "lat": 45.036556,
+  "lng": 93.025986,
+  "hours": "Mon: 10-9; Tue: 10-9; Wed: 10-9; Thurs: 10-9; Fri: 10-9; Sat: 10-9; Sun: 10-8",
+  "services": {}
+}
